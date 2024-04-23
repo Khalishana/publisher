@@ -11,3 +11,4 @@ yang sama dengan tempat pelanggan berlangganan
 ![alt text](<running rabbit.jpg>)
 ![alt text](<sending n processing.jpg>)
 ![alt text](<monitoring chart.jpg>)
+Gambar diatas menunjukkan kondisi dimana data-data berupa message queue dikirimkan ketika publisher di-run. Subscriber yang sedang terhubung ke message queue akan mendapatkan data-data tersebut dari message queue dan mengeluarkannya di terminal sesuai dengan kode yang telah dibuat.
