@@ -15,7 +15,7 @@ Result<(), HandleError> {
  }
 }
 fn main() {
- let mut p = CrosstownBus::new_queue_publisher("amqp://guest:guest@localhost:56
+ let mut p = CrosstownBus::new_queue_publisher("amqp://quest:quest@localhost:56
 72".to_owned()).unwrap();
  _ = p.publish_event("user_created".to_owned(),
 UserCreatedEventMessage { user_id: "1".to_owned(), user_name:

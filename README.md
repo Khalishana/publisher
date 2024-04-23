@@ -8,3 +8,4 @@ Jawab: Pada publisher digunakan url yang sama dengan yang terdapat pada program 
 digunakan untuk terhubung dengan message broker dengan menggunakan AMQP (Advanced Message Queuing Protocol). Ketika url yang sama digunakan pada publisher dan subscriber, maka kedua
 program ini akan terhubung ke message broker pada mesin ,nomor kredensial hingga port yang sama. Hal ini akan memastikan bahwa penerbit dapat menerbitkan pesan ke contoh broker pesan 
 yang sama dengan tempat pelanggan berlangganan
+![alt text](<running rabbit.jpg>)
