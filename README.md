@@ -9,3 +9,4 @@ digunakan untuk terhubung dengan message broker dengan menggunakan AMQP (Advance
 program ini akan terhubung ke message broker pada mesin ,nomor kredensial hingga port yang sama. Hal ini akan memastikan bahwa penerbit dapat menerbitkan pesan ke contoh broker pesan 
 yang sama dengan tempat pelanggan berlangganan
 ![alt text](<running rabbit.jpg>)
+![alt text](<sending n processing.jpg>)
