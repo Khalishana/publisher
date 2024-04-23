@@ -10,3 +10,4 @@ program ini akan terhubung ke message broker pada mesin ,nomor kredensial hingga
 yang sama dengan tempat pelanggan berlangganan
 ![alt text](<running rabbit.jpg>)
 ![alt text](<sending n processing.jpg>)
+![alt text](<monitoring chart.jpg>)
