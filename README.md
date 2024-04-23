@@ -13,3 +13,5 @@ yang sama dengan tempat pelanggan berlangganan
 ![alt text](<monitoring chart.jpg>)
 Gambar diatas menunjukkan kondisi dimana data-data berupa message queue dikirimkan ketika publisher di-run. Subscriber yang sedang terhubung ke message queue akan mendapatkan data-data tersebut dari message queue dan mengeluarkannya di terminal sesuai dengan kode yang telah dibuat.
 ![alt text](<slow simulation.jpg>)
+![alt text](<slow subscriber.jpg>)
+Pada gambar terakhir, disajikan simulasi slow subscriber yang menunjukkan bahwa implementasi `thread::sleep(ten_millis);` menyebabkan penundaan proses mencetak pesan
